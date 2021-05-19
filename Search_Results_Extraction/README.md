@@ -15,9 +15,6 @@ Regular Expression Implemented for:
 - Headline type
 - Content of each headline
 
-Here is the demo:
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="poster_image.png">
-    <source src="web_scraping_1.mp4" type="video/mp4">
-  </video>
-</figure>
+## Here is the demo:  
+[![IMAGE ALT TEXT HERE](https://github.com/gshashank84/Web_Scraping/blob/master/Search_Results_Extraction/poster_image.png)](https://github.com/gshashank84/Web_Scraping/blob/master/Search_Results_Extraction/web_scraping_1.mp4)
+(Click on the image for the full video)
