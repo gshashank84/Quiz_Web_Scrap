@@ -14,3 +14,10 @@ Regular Expression Implemented for:
 - Headline
 - Headline type
 - Content of each headline
+
+Here is the demo:
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="poster_image.png">
+    <source src="web_scraping_1.mp4" type="video/mp4">
+  </video>
+</figure>
